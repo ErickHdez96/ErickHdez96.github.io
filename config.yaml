@@ -1,0 +1,11 @@
+baseURL: "https://erickhernandez.dev/"
+languageCode: "en-us"
+title: "Erick Hernandez Curiel"
+theme: "anubis"
+paginate: 10
+
+params:
+  author: "Erick Hernandez Curiel"
+  email: "blog@hernandezcuriel.dev"
+  
+  style: "auto"
